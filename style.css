@@ -609,9 +609,9 @@ progress::-moz-progress-bar {
 
 .portfolio-card {
   position: relative;
-  width: 100%;
+  width: 90%;
   height: 80vh;
-  margin: 0 auto;
+  margin: 1rem auto;
   display: block;
   border: 1px solid var(--second-color);
   border-radius: 2rem;
@@ -663,9 +663,7 @@ progress::-moz-progress-bar {
   overflow: auto;
 }
 
-.portfolio-modal-container-gap {
-   gap: 1rem;
-}
+
 
 /* Estilo del portafolio agregado por mi */
 article.portfolio-modal img {
